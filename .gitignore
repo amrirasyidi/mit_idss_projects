@@ -130,3 +130,14 @@ dmypy.json
 ./week4_regression/data/healthcare_data.csv
 ./week4_regression/data/healthcare_data.csv
 ./week5_classification/data/Skyserver250k.csv
+./week4_regression/data/healthcare_data.csv
+./week5_classification/data/Skyserver250k.csv
+./week6_nn/data/images.npy
+./week6_nn/data/SVHN_single_grey1.h5
+./.git/objects/54/b0b31a3da2738fb4e6d9a4e14a726b05da5b63
+./.git/objects/6e/d785028e34dd95d4a78000d48dc6430a6b6c39
+./week4_regression/data/healthcare_data.csv
+./week5_classification/data/Skyserver250k.csv
+./week6_nn/data/images.npy
+./week6_nn/data/SVHN_single_grey1.h5
+./week6_nn/data
