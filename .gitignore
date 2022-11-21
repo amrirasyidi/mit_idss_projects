@@ -128,3 +128,5 @@ dmypy.json
 # Pyre type checker
 .pyre/
 ./week4_regression/data/healthcare_data.csv
+./week4_regression/data/healthcare_data.csv
+./week5_classification/data/Skyserver250k.csv
