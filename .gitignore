@@ -141,3 +141,4 @@ dmypy.json
 ./week6_nn/data/images.npy
 ./week6_nn/data/SVHN_single_grey1.h5
 ./week6_nn/data
+./week7_rec_system/data
